@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Process Points",
+      "hasCanvas": false,
+      "bodyTextLen": 584,
+      "bodyTextHash": "7b5d5422fd25774e2583fbe14869499246d552122191132a4d76092f56974b6b",
+      "bodyTextPrefix": "PROCESS POINTS Match 1 · Fri 7:58 PM Undo 0 TOTAL POINTS Tap a h",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Process Points",
+      "hasCanvas": false,
+      "bodyTextLen": 584,
+      "bodyTextHash": "7b5d5422fd25774e2583fbe14869499246d552122191132a4d76092f56974b6b",
+      "bodyTextPrefix": "PROCESS POINTS Match 1 · Fri 7:58 PM Undo 0 TOTAL POINTS Tap a h",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
